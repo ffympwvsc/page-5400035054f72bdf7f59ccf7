@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "29b81307d8638bde37395852",
+  "owner": "ffympwvsc",
+  "repo": "page-5400035054f72bdf7f59ccf7",
+  "title": "冲浪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5400035054f72bdf7f59ccf7",
+      "a": "冲浪云",
+      "b": "稳定全球clash加速器",
+      "entity": "冲浪云",
+      "brand": "冲浪云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "011170e5281420316b5b6fd7c6ffc86b740d469a68ca60427a5ccdca3d8d68da",
+      "content": {
+        "primary_entity": "冲浪云",
+        "keyword1": "冲浪云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐并配置订阅，即可开始使用冲浪云。",
+          "AI_CLOSING_TITLE": "开始使用冲浪云",
+          "AI_DESCRIPTION": "，提供从基础版到团队版的多档订阅方案，适配多设备与多平台使用场景，用户可按流量、设备数量与节点需求选择合适套餐。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量与订阅周期三个方向了解冲浪云。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、旗舰版300GB、团队版1000GB，按用量选择。",
+          "AI_FEATURE_TEXT_2": "同一账号支持3至20台设备，覆盖手机、电脑与平板等日常终端。",
+          "AI_FEATURE_TEXT_3": "月付或年付均可，年付方案平均每月支出更低，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "套餐分层清晰",
+          "AI_FEATURE_TITLE_2": "多设备在线",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、确认设备数量、按客户端文档导入订阅，三步即可完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "冲浪云提供多档订阅套餐，覆盖不同流量与设备需求，配合常见客户端完成订阅导入即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB流量",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择，年付更省",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与权益，按实际需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求与设备数量，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或平板的系统与客户端类型，查看适配要求。",
+          "AI_STEP_TEXT_3": "复制订阅链接，按所选客户端的文档导入并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "冲浪云订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月流量需求在 100GB 以内的用户，解锁基础流媒体，月付 15 元，年付 150 元。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，支持 5 台设备，月付 35 元，年付 350 元，适合对延迟和画质有要求的用户。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，超出时建议升级套餐。",
+          "AI_FAQ_ANSWER_4": "可以。基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，均比按月支付更实惠。",
+          "AI_FAQ_ANSWER_5": "手机选对应系统的客户端，电脑按 Windows 或 macOS 安装，路由器可导入订阅，具体配置步骤可参考客户端文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_QUESTION_3": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "可以按年付吗？价格是多少？",
+          "AI_FAQ_QUESTION_5": "不同设备如何选择客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4s38dwwnw12a.com",
+    "host": "xn--9kqy4s38dwwnw12a.com"
+  },
+  "file_hashes": {
+    "index.html": "df1427ec1471f2839f2f215723610320c3fd95bacf766c0e999db777149c7fab",
+    "sitemap.xml": "f5cecedbaa0ce1e1beb8a1c4d1cff441c53c50a2fbecc02d65cf08bba7f3ecfc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "908b3dc0d8ae77cbb3d9720995079ee53cea73e756b21c645e03578f4b064a99",
+    "robots.txt": "4b822a5d15c5a1dbb78c0510e8b664666dcdb5f18521127ab46f7d6f4b0b1cff",
+    "4d26ba4c94f8ef9af170ddcb9df5f3ca.txt": "cdcdf139fcd3211933820ae53689aa71478db3326b7f65367543722a2933b3df"
+  },
+  "revision": "6bbab565c808b80264c64c0979ba1fc7777c86b1fbc3b077a8ab81dfc9b605c9"
+}
